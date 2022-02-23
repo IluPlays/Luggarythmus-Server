@@ -1,2 +1,2 @@
 Habe keinen Bock das hier zu integrieren, also hier das Projekt:
-https://github.com/IluPlays/PointScoreApp
+https://github.com/IluPlays/PointApp
